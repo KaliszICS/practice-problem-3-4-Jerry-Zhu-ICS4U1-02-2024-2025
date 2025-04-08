@@ -1,10 +1,6 @@
 public class PracticeProblem {
 
 	public static void main(String args[]) {
-int n = 10;
-		for(int i = 0; i < n; i++){
-			System.out.println(recaman(10)[i]);
-		}
 	}
 
 	public static int[] recaman(int n) {
